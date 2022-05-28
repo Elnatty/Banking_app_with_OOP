@@ -1,0 +1,9 @@
+
+
+1 --> Abstraction: exposing only the necessary details needed by whoever will use the program.
+
+2 --> Inheritance: allows for code re-usability, ie: creating a new class, that uses the features of an existing class
+      but you want to add more features to it. (sub or extended or child class), from (super or base or parent).
+
+3 --> Polymorphism: allows you to determine what kind of function to run while the program is running.
+4 --> Encapsulation: restricting access of certain properties or methods of our objects to whatever is calling that object.
